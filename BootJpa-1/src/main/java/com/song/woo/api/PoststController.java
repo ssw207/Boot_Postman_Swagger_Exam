@@ -33,4 +33,7 @@ public class PoststController {
 		return postsService.save(dto);
 	}
 	
+//	@GetMapping("/list")
+//	public Optional<Posts>
+	
 }
