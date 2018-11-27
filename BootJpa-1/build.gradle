@@ -40,4 +40,14 @@ dependencies {
 	compileOnly group: 'io.springfox', name: 'springfox-swagger2', version: '2.9.2'
 	compileOnly group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
 	compileOnly group: 'io.springfox', name: 'springfox-data-rest', version: '2.9.2'
+	
+	//view
+	compile group: 'javax.servlet.jsp.jstl', name: 'jstl', version: '1.2'
+	compile group: 'org.apache.tomcat.embed', name: 'tomcat-embed-jasper', version: '9.0.13'
+	
+	//compile 'pl.allegro.tech.boot:handlebars-spring-boot-starter:0.3.0'
+	
+	//devtools 
+	compile group: 'org.springframework.boot', name: 'spring-boot-devtools', version: '2.1.0.RELEASE'
+	 
 }
