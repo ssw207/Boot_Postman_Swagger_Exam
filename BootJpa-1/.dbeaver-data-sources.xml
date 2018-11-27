@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mariaDB-1675364acf6-55ed00644fb5c2ae" provider="mysql" driver="mariaDB" name="MariaDB - testdb" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="testdb" url="jdbc:mysql://localhost:3306/testdb" user="swsong" password="Q1RWcCGi" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
